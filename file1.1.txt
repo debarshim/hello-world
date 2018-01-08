@@ -1,2 +1,2 @@
 file1
-new addition
+new addition - added hotfix
